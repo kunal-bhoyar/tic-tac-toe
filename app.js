@@ -94,3 +94,6 @@ reset.addEventListener("click",()=>{
     msg.innerText = "Player O Turn";
 
 });
+
+
+// adding some new feature , 
