@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    font-family: Arial;
+}
+
+.game{
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.box{
+    height: 95px;
+    width: 95px;
+    font-size: 40px;
+    background-color: rgb(245, 168, 168);
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+
+#reset{
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+}
